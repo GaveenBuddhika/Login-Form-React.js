@@ -27,5 +27,5 @@ Fork the repository.
 Create a branch for your changes.
 Make your changes and commit them.
 Open a pull request for review.
-## License
+
 
